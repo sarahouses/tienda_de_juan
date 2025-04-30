@@ -18,9 +18,10 @@ Utilicé herramientas de análisis de datos en Python, como **Pandas** para el p
   - Envío promedio
   - Evaluaciones de los clientes
 - **Visualicé los datos** mediante distintos tipos de gráficos:
-  - Gráficos de barras comparativas entre tiendas
-  - Gráficos de burbujas para relacionar cantidad, producto e ingresos
-  - Gráficos circulares para mostrar participación de categorías
+  - Gráfico de barras comparativas para el ingreso total
+  - Gráfico de burbujas para relacionar cantidad, producto e ingresos
+  - Gráfico circulares para mostrar los productos más y menos vendidos en las tiendas
+  - Gráfico lineal para mostrar la calificación promedio de los clientes en las tiendas
 
 ---
 
